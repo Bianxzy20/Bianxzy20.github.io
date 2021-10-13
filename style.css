@@ -9,10 +9,9 @@
     width: 100%;
     padding-top: 1%;
     padding-bottom: 1%;
-    
 }
 .nav-scrolled{
-    background-color: blue;
+    background-color: purple;
     box-shadow: 0 3px 20px rgba(black, 0.2);
 }
 .intro{
